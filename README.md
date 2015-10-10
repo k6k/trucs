@@ -3,7 +3,7 @@
 http://jsfiddle.net/e1w7gL18/1/
 
 HTML : 
-
+```HTML
 <div ng-app="app">
     <div ng-controller="A">
         <input type="text" ng-model="mod"><br>
@@ -15,9 +15,9 @@ HTML :
             {{data.sentAmount}} / {{abloba}}
     </div>
 </div>
-
+```
 Javasript : 
-
+```javascript
 var app = angular.module("app",[]);
 app.run(function($rootScope){
 	$rootScope.data = {'sentAmount':1};
@@ -46,3 +46,4 @@ app.controller('B',['$scope','$rootScope',function($scope,$rootScope){
 
     $scope.$watch(getDataAmount, J,true);
 }]);
+```
