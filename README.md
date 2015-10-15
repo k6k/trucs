@@ -1,6 +1,6 @@
 # trucs
 [AngularJs] - Sharing RootScope data between controller
-http://jsfiddle.net/e1w7gL18/1/
+http://jsfiddle.net/e1w7gL18/2/
 
 HTML : 
 ```HTML
@@ -46,4 +46,18 @@ app.controller('B',['$scope','$rootScope',function($scope,$rootScope){
 
     $scope.$watch(getDataAmount, J,true);
 }]);
+```
+
+Conditionnal Class on Scope
+
+Two Ways:
+
+```javascript
+1. ng:class="{true:'selected', false:''}[$index==selectedIndex]" or ng-class="{selected: $index==selectedIndex}"
+2. ng-class="{admin:'enabled', moderator:'disabled', '':'hidden'}[user.role]"
+```
+
+To ParJson : 
+```javascript
+angular.fromJson(data);
 ```
