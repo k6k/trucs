@@ -71,3 +71,8 @@ In function($event) :
 2. Select parent  : angular.element(event.target).parent();
 3. Ex add a class : angular.element(event.target).parent().addClass('loading');
 ```
+Create Scope and assign value
+
+```javascript
+$scope[scopeName] = Value;
+```
