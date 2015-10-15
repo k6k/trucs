@@ -62,3 +62,12 @@ To ParJson :
 ```javascript
 angular.fromJson(data);
 ```
+
+
+To Select Element by $event
+```javascript
+In function($event) :
+1. Select element : angular.element(event.target);
+2. Select parent  : angular.element(event.target).parent();
+3. Ex add a class : angular.element(event.target).parent().addClass('loading');
+```
