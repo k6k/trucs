@@ -1,7 +1,7 @@
 # trucs
 [AngularJs] - Sharing RootScope data between controller
 http://jsfiddle.net/e1w7gL18/2/
-
+http://tutorials.jenkov.com/angularjs/events.html
 HTML : 
 ```HTML
 <div ng-app="app">
