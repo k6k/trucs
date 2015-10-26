@@ -90,7 +90,7 @@ if(angular.isDefined(newVal)){
 
 Avoid to blink {{value}} before Angular module load
 ```javascript
-Don't use : <h4>{{title}}</h4>
-but ng-bind :<h4 ng-bind='title'></h4>
+Do not use : <h4>{{title}}</h4>
+but ng-bind :<h4 ng-bind="title"></h4>
 Or ng-bind-template to multiple values : <h4 ng-bind-template="{{title}} {{date}}"></h4>
 ```
