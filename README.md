@@ -6,6 +6,10 @@ AngularJs Event : http://tutorials.jenkov.com/angularjs/events.html
 Plugin DatePicker : https://github.com/720kb/angular-datepicker
 Liste de plugins : http://webmaterialcube.com/category/angular-js-plugins/ [---]   http://ngmodules.org/modules/
 Tips : http://www.ng-newsletter.com/posts/angular-translate.html
+http://blog.nedex.io/create-an-api-server-for-mobile-apps-using-laravel-5-1/
+https://scotch.io/tutorials/token-based-authentication-for-angularjs-and-laravel-apps
+http://www.codeheaps.com/php-programming/creating-restful-api-using-laravel-angularjs-frontend/
+https://scotch.io/tutorials/simple-laravel-crud-with-resource-controllers
 ```
 
 
