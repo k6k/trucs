@@ -1,7 +1,12 @@
 # trucs
 [AngularJs] - Sharing RootScope data between controller
-http://jsfiddle.net/e1w7gL18/2/
-http://tutorials.jenkov.com/angularjs/events.html
+```TEXT
+Demo Sharing Scope :http://jsfiddle.net/e1w7gL18/2/
+AngularJs Event : http://tutorials.jenkov.com/angularjs/events.html
+Plugin DatePicker : https://github.com/720kb/angular-datepicker
+```
+
+
 HTML : 
 ```HTML
 <div ng-app="app">
