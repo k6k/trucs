@@ -4,8 +4,7 @@
 Demo Sharing Scope :http://jsfiddle.net/e1w7gL18/2/
 AngularJs Event : http://tutorials.jenkov.com/angularjs/events.html
 Plugin DatePicker : https://github.com/720kb/angular-datepicker
-Liste de plugins : http://webmaterialcube.com/category/angular-js-plugins/
-		   http://ngmodules.org/modules/
+Liste de plugins : http://webmaterialcube.com/category/angular-js-plugins/ [---]   http://ngmodules.org/modules/
 ```
 
 
