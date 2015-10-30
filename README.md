@@ -115,3 +115,15 @@ How to assign default value From PHP to Input on load
         $scope.admin = value;
     };
 ```
+
+Launch Function after DomLoad
+```Javascript
+$scope.$watch('$viewContentLoaded', function(){
+// Do somehing
+});
+```
+
+Bible Laravel
+```PHP
+http://cheats.jesse-obrien.ca/
+```
