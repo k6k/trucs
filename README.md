@@ -1,4 +1,4 @@
-# trucs
+# trucs AngularJS
 [AngularJs] - Sharing RootScope data between controller
 ```TEXT
 Demo Sharing Scope :http://jsfiddle.net/e1w7gL18/2/
