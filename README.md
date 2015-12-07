@@ -123,6 +123,11 @@ $scope.$watch('$viewContentLoaded', function(){
 });
 ```
 
+Imbricated Ng-repeat ng-repeat-start / ng-repeat-end
+```PHP
+http://plnkr.co/edit/HNRAdQnXfhvY2fm4pxGH?p=preview
+```
+
 Bible Laravel
 ```PHP
 http://cheats.jesse-obrien.ca/
