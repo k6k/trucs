@@ -1,0 +1,28 @@
+---- Title -----
+<h1 class='title'>
+  <span>Title</span>
+</h1>
+
+
+css 
+.title{
+   &__barre:before{
+        content: '';
+        border-top: 2px solid #543D40;
+        position: absolute;
+        max-width: 560px;
+        width: 100%;
+        top: 18px;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        z-index: 1;
+    }
+    &__barre span{
+        background: #F6F6F5;
+        z-index: 4;
+        position: relative;
+        padding: 0 15px;
+    }
+}
